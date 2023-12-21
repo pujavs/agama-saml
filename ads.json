@@ -1,1 +1,18 @@
-{}
+{
+    "agama-saml": {
+        "projectName": "agama-saml",
+        "description": "Agama Project for Inbound SAML ",
+        "type": "community",
+        "author": "pujavs",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/pujavs/agama-saml",
+        "githubUri": "https://github.com/pujavs/agama-saml",
+        "license": "apache-2.0",
+        "lastUpdated": "1703169436396",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
